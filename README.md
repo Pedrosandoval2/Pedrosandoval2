@@ -1,4 +1,3 @@
-# 👋 Hola, soy Pedro Sandoval | Frontend Developer
 
 [![bannergithub.webp](https://i.postimg.cc/Z5qpxvVR/bannergithub.webp)](https://postimg.cc/w7S16MK8)
 
