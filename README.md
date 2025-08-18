@@ -1,5 +1,5 @@
 
-[![bannergithub.webp](https://i.postimg.cc/Z5qpxvVR/bannergithub.webp)](https://postimg.cc/w7S16MK8)
+[![83da41b9-d613-4db3-bc65-c9a0d7060ff9.jpg](https://i.postimg.cc/CLCP2hTk/83da41b9-d613-4db3-bc65-c9a0d7060ff9.jpg)](https://postimg.cc/ZCRxBhq5)
 
 **📍 Lima, Perú**  
 **📧 pedrosandovolespinoza1@gmail.com**  
