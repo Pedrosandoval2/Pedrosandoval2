@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre Mí
 
-Desarrollador Frontend con experiencia en:
+Desarrollador Fullstack con experiencia en:
 - 🖥️ Frontend: React, Angular, TypeScript
 - ⚙️ Backend: Node.js, NestJS, APIs RESTful, SpringBoot
 - 🛠️ Herramientas: Docker, Git, PostgreSQL, Mysql, MongoDB
